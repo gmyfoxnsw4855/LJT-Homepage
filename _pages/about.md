@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), supervised by [Professor Junxian He](https://jxhe.github.io/). I received my B.Eng. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in June 2024, where I was also previously advised by Professor Junxian He. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I received my B.Eng. degree from Shanghai Jiao Tong University in June 2024, where I was also previously advised by Professor Junxian He. My research focuses on natural language processing and machine learning.
 
 My research interests include **LLM Reasoning and Reinforcement Learning**, **Hallucination in Vision-Language Models (VLM)**, and **LLM truthfulness and Interpretability**.
 
@@ -29,7 +29,7 @@ Research Experience
 
 Publications
 ======
-(* indicates equal contribution; **Junteng Liu** is marked in bold)
+(**Junteng Liu** marked in bold)
 
 1. **On the Perception Bottleneck of VLMs for Chart Understanding**
    <br>
